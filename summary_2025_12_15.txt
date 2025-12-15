@@ -1,0 +1,83 @@
+============================================================
+Total datasets: 1,343
+============================================================
+
+Weather factor categories:
+  Total weather datasets: 411
+  Total sensor datasets:  881
+  Total case datasets:   1,074
+
+────────────────────────────────────────────────────────────
+Weather type breakdown:
+────────────────────────────────────────────────────────────
+Total weather type categories: 36
+
+  EnvNight_RoadFlodding                                 17
+  EnvNight_RoadIceing                                    1
+  EnvNight_WeatherDustStorm                             16
+  EnvNight_WeatherHeavyFog                              17
+  EnvNight_WeatherHeavyRain                             17
+  EnvNight_WeatherHeavyRain_RoadFlodding                17
+  EnvNight_WeatherMediumFog                             17
+  EnvNight_WeatherSoftRain                               1
+  EnvNight_WeatherSoftRain_RoadFlodding                 15
+  EnvNight_WeatherSoftRain_RoadIceing                    1
+  EnvNight_WeatherSuddenRain                            17
+  EnvNight_WeatherSuddenRain_RoadFlodding                1
+  EnvNoon_RoadFlodding                                  17
+  EnvNoon_RoadIceing                                     1
+  EnvNoon_WeatherDustStorm                              17
+  EnvNoon_WeatherHeavyFog                               17
+  EnvNoon_WeatherHeavyRain                              17
+  EnvNoon_WeatherHeavyRain_RoadFlodding                 16
+  EnvNoon_WeatherMediumFog                              17
+  EnvNoon_WeatherSoftRain                                1
+  EnvNoon_WeatherSoftRain_RoadFlodding                  15
+  EnvNoon_WeatherSoftRain_RoadIceing                     1
+  EnvNoon_WeatherSuddenRain                             17
+  EnvNoon_WeatherSuddenRain_RoadFlodding                 1
+  EnvSunset_RoadFlodding                                17
+  EnvSunset_RoadIceing                                   1
+  EnvSunset_WeatherDustStorm                            17
+  EnvSunset_WeatherHeavyFog                             17
+  EnvSunset_WeatherHeavyRain                            17
+  EnvSunset_WeatherHeavyRain_RoadFlodding               17
+  EnvSunset_WeatherMediumFog                            17
+  EnvSunset_WeatherSoftRain                              1
+  EnvSunset_WeatherSoftRain_RoadFlodding                15
+  EnvSunset_WeatherSoftRain_RoadIceing                   1
+  EnvSunset_WeatherSuddenRain                           16
+  EnvSunset_WeatherSuddenRain_RoadFlodding               1
+
+────────────────────────────────────────────────────────────
+Harzed Weather type breakdown:
+────────────────────────────────────────────────────────────
+Total harzed weather type categories: 27
+
+  EnvNight_RoadFlodding                                 17
+  EnvNight_RoadIceing                                    1
+  EnvNight_WeatherDustStorm                             16
+  EnvNight_WeatherHeavyFog                              17
+  EnvNight_WeatherHeavyRain                             17
+  EnvNight_WeatherHeavyRain_RoadFlodding                17
+  EnvNight_WeatherMediumFog                             17
+  EnvNight_WeatherSuddenRain                            17
+  EnvNight_WeatherSuddenRain_RoadFlodding                1
+  EnvNoon_RoadFlodding                                  17
+  EnvNoon_RoadIceing                                     1
+  EnvNoon_WeatherDustStorm                              17
+  EnvNoon_WeatherHeavyFog                               17
+  EnvNoon_WeatherHeavyRain                              17
+  EnvNoon_WeatherHeavyRain_RoadFlodding                 16
+  EnvNoon_WeatherMediumFog                              17
+  EnvNoon_WeatherSuddenRain                             17
+  EnvNoon_WeatherSuddenRain_RoadFlodding                 1
+  EnvSunset_RoadFlodding                                17
+  EnvSunset_RoadIceing                                   1
+  EnvSunset_WeatherDustStorm                            17
+  EnvSunset_WeatherHeavyFog                             17
+  EnvSunset_WeatherHeavyRain                            17
+  EnvSunset_WeatherHeavyRain_RoadFlodding               17
+  EnvSunset_WeatherMediumFog                            17
+  EnvSunset_WeatherSuddenRain                           16
+  EnvSunset_WeatherSuddenRain_RoadFlodding               1
