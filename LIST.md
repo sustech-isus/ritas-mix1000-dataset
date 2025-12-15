@@ -2,9 +2,9 @@
 
 **SUM = 1343**
 
-您可点击右侧链接处下载全部或部份数据集 [[DOWNLOAD ALL]](https://pan.quark.cn/s/97ed18e0aacd?pwd=f6rV)
+您可点击右侧链接处下载全部数据集 [[DOWNLOAD ALL]](https://pan.quark.cn/s/97ed18e0aacd?pwd=f6rV)
 
-You can download the complete or selected dataset by clicking the link on the right [[DOWNLOAD ALL]](https://pan.quark.cn/s/97ed18e0aacd?pwd=f6rV)
+You can download the complete dataset by clicking the link on the right [[DOWNLOAD ALL]](https://pan.quark.cn/s/97ed18e0aacd?pwd=f6rV)
 
 ## 清单 / List
 
